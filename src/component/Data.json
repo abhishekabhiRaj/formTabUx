@@ -1,0 +1,175 @@
+    {
+        "1": {
+            "name": "Select Vaccine",
+            "component" : "VaccineTab",
+            "active" : false,
+            "path": "/",
+            "field": {
+                "1": {
+                    "label": "Covid-19 astraZeneca",
+                    "status": false
+                },
+                "2": {
+                    "label": "Covid-19 pfizer",
+                    "status": false
+                },
+                "3": {
+                    "label": "Herpes Zoster(Shingles)",
+                    "status": false
+                },
+                "4": {
+                    "label": "Japanese Encephalitis",
+                    "status": false
+                },
+                "5": {
+                    "label": "Bacille Calmatte-Guéri...",
+                    "status": false
+                },
+                "6": {
+                    "label": "Flue Shot",
+                    "status": false
+                },
+                "7": {
+                    "label": "Haemophilus influenzae...",
+                    "status": false
+                },
+                "8": {
+                    "label": "Hepatitis A",
+                    "status": false
+                },
+                "9": {
+                    "label": "Meningococcal disease",
+                    "status": false
+                },
+                "10": {
+                    "label": "Pneumococcal disease",
+                    "status": false
+                },
+                "11": {
+                    "label": "Varicella",
+                    "status": false
+                },
+                "12": {
+                    "label": "Hepatitis B",
+                    "status": false
+                },
+                "13": {
+                    "label": "Yellow Fever",
+                    "status": false
+                }
+            }
+        },
+        "2": {
+            "name": "Search Pharmacy",
+            "component" : "PharmacyTab",
+            "path": "/pharmacy-tab",
+            "active" : false,
+            "field": {
+                "1": {
+                    "label": "Pharmacy A",
+                    "status": false
+                },
+                "2": {
+                    "label": "Pharmacy B",
+                    "status": false
+                },
+                "3": {
+                    "label": "Pharmacy C",
+                    "status": false
+                },
+                "4": {
+                    "label": "Pharmacy D",
+                    "status": false
+                },
+                "5": {
+                    "label": "Pharmacy E",
+                    "status": false
+                },
+                "6": {
+                    "label": "Pharmacy F",
+                    "status": false
+                },
+                "7": {
+                    "label": "Pharmacy G",
+                    "status": false
+                },
+                "8": {
+                    "label": "Pharmacy H",
+                    "status": false
+                }
+            }
+        },
+        "3": {
+            "name": "Select Time Slot",
+            "component": "TimeTab",
+            "path": "/time-slot-tab",
+            "active" : false,
+            "field": {
+                "1": {
+                    "label": "9AM - 12AM",
+                    "status": false
+                },
+                "2": {
+                    "label": "1PM - 3PM",
+                    "status": false
+                },
+                "3": {
+                    "label": "4PM - 6PM",
+                    "status": false
+                },
+                "4": {
+                    "label": "6PM - 9PM",
+                    "status": false
+                }
+            }
+        },
+        "4": {
+            "name": "Enter Your Detail",
+            "component": "DetailsTab",
+            "path": "/details-tab",
+            "active" : false,
+            "field": {
+                "1": {
+                    "label": "First Name",
+                    "palceholder": "First Name"
+                },
+                "2": {
+                    "label": "Last Name",
+                    "palceholder": "Last Name"
+                }
+            }
+        },
+        "5": {
+            "name": "Pre-Assessment",
+            "component": "AssessmentTab",
+            "path": "/assessment-tab",
+            "active" : false,
+            "field": {
+                "1": {
+                    "label": "Pre-Assessment Tab"
+                }
+            }
+        },
+        "6": {
+            "name": "Quationaire",
+            "component": "QuestionaireTab",
+            "path": "/quationaire-tab",
+            "active" : false,
+            "field": {
+                "1": {
+                    "label": "Quationaire Tab"
+                }
+            }
+        },
+        "7": {
+            "name": "Confirmation",
+            "component": "ConfirmationTab",
+            "path": "/confirmation-tab",
+            "active" : false,
+            "field": {
+                "1": {
+                    "label": "Confirmation Tab"
+                }
+            }
+        }
+    }
